@@ -22,6 +22,12 @@ simulador-filas/
 ```├── requirements.txt```
 ```└── README.md```
 
+### 📦 simulador-filas/
+  - 📃 app.py
+  - 📃 style.css
+  - 📃requirements.txt
+  - 📃README.md
+
 ---
 
 ## Como executar localmente
@@ -32,7 +38,9 @@ simulador-filas/
    cd simulador-filas
    
 2. Instale as Dependências
+   ```bash
     pip install -r requirements.txt
 
-3. Rode o app
+4. Rode o app
+   ```bash
    streamlit run app.py
