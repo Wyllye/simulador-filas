@@ -1,8 +1,7 @@
 # Simulador de Filas — Projeto (Versão Simplificada)
 
-**Grupo:** Nome1; Nome2; Nome3; Nome4  
+**Grupo:** ; Luiz Gustavo Przygoda, Marco Antônio Borghetti, Maria Isabel Wirth Marafon e Vinícius Andrei Wille
 **Disciplina:** Modelagem e Simulação de Sistemas  
-**Data:** 01/12/2025
 
 ---
 
