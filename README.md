@@ -26,7 +26,7 @@ O usuário informa as três entradas principais: **Quantidade de clientes (N)**,
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/simulador-filas.git
+   git clone https://github.com/Wyllye/simulador-filas.git
    cd simulador-filas
    
 2. Instale as Dependências
