@@ -1,6 +1,6 @@
 # Simulador de Filas 
 
-**Grupo:** ; Luiz Gustavo Przygoda, Marco Antônio Borghetti, Maria Isabel Wirth Marafon e Vinícius Andrei Wille
+**Grupo:** Luiz Gustavo Przygoda, Marco Antônio Borghetti, Maria Isabel Wirth Marafon e Vinícius Andrei Wille
 **Disciplina:** Modelagem e Simulação de Sistemas  
 
 ---
