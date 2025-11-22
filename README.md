@@ -13,7 +13,7 @@ O usuário informa as três entradas principais: **Quantidade de clientes (N)**,
 ---
 
 ## Link do Deploy
-    ```bash
+    
     https://simulador-filas-jzintdwbugfl5xomahe3zp.streamlit.app/
 
 ---
