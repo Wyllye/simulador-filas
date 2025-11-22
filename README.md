@@ -17,10 +17,10 @@ O usuário informa as três entradas principais: **Quantidade de clientes (N)**,
 ## Estrutura do repositório
 
 simulador-filas/
-├── app.py # Aplicação Streamlit (entrada do sistema)
-├── style.css # Estilo visual (opcional)
-├── requirements.txt
-└── README.md
+```├── app.py # Aplicação Streamlit (entrada do sistema)```
+```├── style.css # Estilo visual (opcional)```
+```├── requirements.txt```
+```└── README.md```
 
 ---
 
