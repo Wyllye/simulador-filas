@@ -5,7 +5,7 @@
 
 ---
 
-## Descrição rápida
+## Descrição do projeto
 
 Aplicação web simples (Streamlit) que simula o funcionamento de um sistema de fila com **1 servidor** e disciplina **FIFO**.  
 O usuário informa as três entradas principais: **Quantidade de clientes (N)**, **Intervalo entre chegadas (min)** e **Duração do atendimento (min)**. O app gera a tabela de eventos (chegada, início/fim de atendimento, espera) e calcula as métricas solicitadas no enunciado (IC médio, TA médio, tamanho médio da fila estimado, tempo médio de espera, tempo médio no sistema).
