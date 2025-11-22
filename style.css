@@ -1,0 +1,105 @@
+/* ======= DARK PREMIUM THEME ======= */
+
+/* Fundo geral */
+[data-testid="stAppViewContainer"] {
+    background: #0d0f18;
+    color: #e8e8f2;
+    font-family: 'Inter', sans-serif;
+}
+
+/* Título */
+h1 {
+    color: #c4c8ff !important;
+    font-weight: 700 !important;
+}
+
+/* Subtítulos */
+h2, h3, h4 {
+    color: #b2b6e3 !important;
+}
+
+/* ---- Sidebar ---- */
+[data-testid="stSidebar"] {
+    background: #131421;
+    border-right: 1px solid rgba(255,255,255,0.05);
+}
+
+[data-testid="stSidebar"] h2,
+[data-testid="stSidebar"] label {
+    color: #e0e4ff !important;
+}
+
+/* Inputs da sidebar */
+[data-testid="stSidebar"] input,
+[data-testid="stSidebar"] .stNumberInput input {
+    background: #1d1f2e !important;
+    color: #f0f0ff !important;
+    border-radius: 6px !important;
+    border: 1px solid #34364a !important;
+}
+
+/* Texto da sidebar */
+[data-testid="stSidebar"] p,
+[data-testid="stSidebar"] span {
+    color: #d9dbf5 !important;
+}
+
+/* ---- Métricas (cards) ---- */
+[data-testid="metric-container"] {
+    background: rgba(255,255,255,0.04) !important;
+    backdrop-filter: blur(6px);
+    border-radius: 12px;
+    padding: 12px;
+    border: 1px solid rgba(255,255,255,0.07);
+    box-shadow: 0px 0px 12px rgba(0,0,0,0.3);
+}
+
+[data-testid="stMetricValue"] {
+    color: #9ec7ff !important;
+    font-size: 26px !important;
+    font-weight: 700 !important;
+}
+
+/* Labels das métricas */
+[data-testid="stMetricLabel"] {
+    color: #c7c8d9 !important;
+}
+
+/* ---- Tabela ---- */
+.stDataFrame {
+    background-color: #151621 !important;
+    border-radius: 10px !important;
+    padding: 8px !important;
+    color: #e8e8f2 !important;
+}
+
+/* Cabeçalho */
+.stDataFrame thead tr th {
+    background: #1c1d2b !important;
+    color: #c4c8ff !important;
+    font-weight: 700 !important;
+}
+
+/* Linhas */
+.stDataFrame tbody tr {
+    background: #131421 !important;
+}
+
+.stDataFrame tbody tr:nth-child(even) {
+    background: #1a1c29 !important;
+}
+
+/* ---- Botões ---- */
+.stDownloadButton button {
+    background: linear-gradient(90deg, #6c63ff, #857bff);
+    color: white !important;
+    border-radius: 8px;
+    padding: 8px 14px;
+    border: none;
+    box-shadow: 0 4px 12px rgba(80,80,255,0.25);
+}
+
+/* ---- Divisores ---- */
+hr {
+    border-top: 1px solid rgba(255,255,255,0.05) !important;
+}
